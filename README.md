@@ -65,9 +65,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add later)
+- 💼 LinkedIn: https://www.linkedin.com/in/khalander-jamsheed
 - 🌐 Portfolio: (Add later)
-- 📧 Email: (Add later)
+- 📧 Email: kjamshee14@gmail.com
 
 ---
 
