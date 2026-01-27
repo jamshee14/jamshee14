@@ -9,7 +9,7 @@
 - 🎯 **Backend & Cloud Intern**
 - ☁️ Working with **Python, Java, AWS**
 - 🏗 Interested in building **scalable, secure, production-ready systems**
-- 🌍 Aspiring **Cloud Engineer (Future Dubai-based)**
+- 🌍 Aspiring **Cloud Engineer**
 - 🚀 Focused on backend development, APIs, and cloud infrastructure
 
 > *"Build things that work. Scale them when they matter."*
