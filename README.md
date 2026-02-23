@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Backend & Cloud Intern**
-- ☁️ Working with **Python, Java, AWS**
+- ☁️ Working with **Python, FastAPI, AWS**
 - 🏗 Interested in building **scalable, secure, production-ready systems**
 - 🌍 Aspiring **Cloud Engineer**
 - 🚀 Focused on backend development, APIs, and cloud infrastructure
