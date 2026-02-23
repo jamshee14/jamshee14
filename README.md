@@ -19,7 +19,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pgadminaws,docker,git,github,linux,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,linux,mysql&perline=8" />
 </p>
 
 **What I build:**
